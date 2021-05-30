@@ -1,0 +1,17 @@
+.error {
+  color: red;
+}
+.required {
+  color: red;
+}
+.main {
+  margin-top: 10px;
+  margin-left: 170px;
+  /* overflow-y: auto; */
+  /* overflow-x: auto; */
+  margin-right: 60px;
+}
+.auth-box {
+  margin-right: 170px;
+  width: 400px;
+}

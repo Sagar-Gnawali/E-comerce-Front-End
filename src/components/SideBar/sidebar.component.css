@@ -1,0 +1,22 @@
+.sidebar {
+  width: 150px;
+  background-color: rgb(26, 226, 226);
+  position: fixed;
+  left:10px;
+  top:61px;
+  color:aliceblue;
+  height:100vh;
+}
+
+.sidebar a{
+    display: block;
+    padding: 10px;
+    cursor: pointer;
+}
+.sidebar a:hover{
+    font-weight: bold;
+}
+.sidebar a:hover{
+    text-decoration:none;
+    /* color:aliceblue; */
+}

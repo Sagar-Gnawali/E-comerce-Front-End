@@ -1,0 +1,9 @@
+.reset{
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.title{
+    font-size: 30px;
+    font-weight:bold;
+}
