@@ -1,3 +1,18 @@
+#Front-end
+For the front-end, I have used React library. We all know that React JS offers graceful solutions to some of front-end programming’s most persistent issues, allowing us to build dynamic and interactive web apps with ease. It’s fast, scalable, flexible, powerful, and has a robust developer community that’s rapidly growing.
+
+#Modules/library
+- react-icons(^4.2..2)
+- react-image-gallery(^1.0.10)
+- redux(^4.1.0)
+- redux-thunk(^2.3.0)
+- react-redux(^7.2.4)
+- react-router-dom(^5.2.0)
+- react-toastify(^7.0.4)
+- socket.io-client(^4.1.2)
+- axios(^0.21.1)
+- moment(^2.29.1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
